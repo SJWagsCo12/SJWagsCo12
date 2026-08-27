@@ -1,5 +1,5 @@
 # Samuel Wagner
-**EE @ Texas A&M** · Embedded systems, electronics design, and system integration.  
+**ESET @ Texas A&M** · Embedded systems, electronics design, and system integration.  
 Hands-on projects: ESP32/servo control, KiCad PCB, robotics, and test/validation.
 
 ## Completed Projects
